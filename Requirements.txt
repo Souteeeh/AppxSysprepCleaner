@@ -1,5 +1,0 @@
-Windows 10 or 11
-
-PowerShell 5.1+
-
-Administrator privileges
