@@ -2,7 +2,7 @@
 
 [![PowerShell](https://img.shields.io/badge/powershell-script-blue.svg)](https://learn.microsoft.com/en-us/powershell/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Last Commit](https://img.shields.io/github/last-commit/Souteeeh/AppxSysprepCleaner.svg)](https://github.com/Souteeeh/AppxSysprepCleaner/commits/master)
+[![Last Commit](https://img.shields.io/github/last-commit/Souteeeh/AppxSysprepCleaner?logo=github)](https://github.com/Souteeeh/AppxSysprepCleaner/commits/master)
 
 A PowerShell script to automatically detect and remove AppX packages that block Sysprep from completing on Windows 11.
 
